@@ -10,7 +10,7 @@
 # User-specific files
 *.rsuser
 *.suo
-*.user
+*.user/bobjunior 
 *.userosscache
 *.sln.docstates
 
